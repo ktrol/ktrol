@@ -23,7 +23,7 @@ Each project ships as a download or a one-command setup, with a README that expl
 <td width="110" align="center"><img src="assets/bytedog.png" width="84" alt="ByteDog"></td>
 <td>
 
-### [ByteDog](https://github.com/BucketSe/ByteDog)
+### [ByteDog](https://github.com/ktrol/ByteDog)
 **A self-learning Discord bot that stops scam images and malicious files.**<br>
 Reads text in images, GIFs and video with OCR, decodes QR codes, spots executables disguised as pictures, and fingerprints known scams. Moderator feedback trains it, so it improves on your server over time.
 
@@ -35,12 +35,12 @@ Reads text in images, GIFs and video with OCR, decodes QR codes, spots executabl
 <td width="110" align="center"><img src="assets/chessai.png" width="84" alt="ChessAi"></td>
 <td>
 
-### [ChessAi](https://github.com/BucketSe/ChessAi)
+### [ChessAi](https://github.com/ktrol/ChessAi)
 **Desktop chess analysis board with Stockfish 19 and a chess engine written from scratch in C++.**<br>
 Best-move arrows, top lines, an evaluation graph, a board editor, PGN/FEN import, 5 app themes and 6 piece sets. The home-made engine uses magic bitboards, PVS alpha-beta search and a tapered evaluation, and is checked with perft suites and engine-vs-engine games.
 
 <img src="https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/UCI-Stockfish-555?style=flat-square"> <br>
-[**Download for Windows**](https://github.com/BucketSe/ChessAi/releases/latest)
+[**Download for Windows**](https://github.com/ktrol/ChessAi/releases/latest)
 
 </td>
 </tr>
@@ -48,12 +48,12 @@ Best-move arrows, top lines, an evaluation graph, a board editor, PGN/FEN import
 <td width="110" align="center"><img src="assets/adguard.png" width="84" alt="Ad Guard for Spotify"></td>
 <td>
 
-### [Ad Guard for Spotify](https://github.com/BucketSe/Spotify-Blocker)
+### [Ad Guard for Spotify](https://github.com/ktrol/Spotify-Blocker)
 **Windows app that mutes or skips Spotify ads automatically.**<br>
 Watches the desktop client, then either mutes the ad or restarts Spotify and resumes your music. Includes now-playing with album art, playback controls and a history of blocked ads. Ships as a single portable `.exe`.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/CustomTkinter-1f6feb?style=flat-square"> <img src="https://img.shields.io/badge/Windows_API-0078D4?style=flat-square&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/PyInstaller-555?style=flat-square"> <br>
-[**Download for Windows**](https://github.com/BucketSe/Spotify-Blocker/releases/latest)
+[**Download for Windows**](https://github.com/ktrol/Spotify-Blocker/releases/latest)
 
 </td>
 </tr>
@@ -86,8 +86,8 @@ Watches the desktop client, then either mutes the ad or restarts Spotify and res
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BucketSe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BucketSe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=ktrol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktrol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top languages">
 
 </div>
 
